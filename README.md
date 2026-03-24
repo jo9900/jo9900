@@ -6,7 +6,7 @@
 
 ## Hi, I'm JO 👋
 
-坐标东京的全栈工程师，专注于 **Web3 / 区块链** 与 **跨平台应用** 开发。
+坐标神奈川的全栈工程师，专注于 **Web3 / 区块链** 与 **跨平台应用** 开发。
 
 目前在 [ABEL & Co., Ltd.](https://github.com/qday-io) 负责 DeFi 基础设施和加密支付产品的前端架构与全栈开发。
 
@@ -18,7 +18,7 @@
 **Web3**: Viem · Wagmi · Ethers.js · Solidity (阅读/集成)
 **状态管理**: Zustand · Jotai · TanStack Query
 **工具链**: Vite · Turborepo · EAS · ESLint · Prettier
-**其他**: Node.js · Express · Swift (macOS) · Electron · i18n (24+ 语言)
+**其他**: Node.js · Express · Electron · i18n (24+ 语言)
 
 ### 🏗️ 核心项目（公司/组织 · 私有仓库）
 
@@ -51,7 +51,6 @@
 |------|------|--------|
 | **pqpay-pospay-mobile-app** | 商户收银 App — QR 支付、热敏打印、多环境 | Expo 53 · React Native · i18n (24 语言) |
 | **pqpay-pospay-admin-ui** | 运营后台 — 商户管理、数据看板、日历排期 | React 19 · Vite · Ant Design |
-| **pqpay-affiliate-ui** | 推广联盟平台 | React · TypeScript |
 
 #### 其他公司项目（个人私有仓库）
 
@@ -66,8 +65,6 @@
 
 | 项目 | 说明 |
 |------|------|
-| [CockroachPet](https://github.com/jo9900/CockroachPet) | 🪳 macOS 桌面宠物 — 16 种 AI 状态、矢量渲染、Swift 原生开发 |
-| [CockroachPet-Electron](https://github.com/jo9900/CockroachPet-Public-Electron) | 🪳 跨平台桌面宠物 — Electron + Canvas 矢量渲染 |
 | [typora-palette](https://github.com/jo9900/typora-palette) | 🎨 12 套 Typora 主题 — 含捆绑字体、从极简到极光渐变风格 |
 | [pdf2md](https://github.com/jo9900/pdf2md) | 📄 批量文档转 Markdown — 支持 PDF/DOCX/PPTX/XLSX/EPUB |
 
@@ -77,7 +74,7 @@
 
 ## Hi, I'm JO 👋
 
-東京在住のフルスタックエンジニアです。**Web3 / ブロックチェーン** と **クロスプラットフォームアプリケーション** の開発を専門としています。
+神奈川在住のフルスタックエンジニアです。**Web3 / ブロックチェーン** と **クロスプラットフォームアプリケーション** の開発を専門としています。
 
 現在は [ABEL & Co., Ltd.](https://github.com/qday-io) にて、DeFi 基盤および暗号資産決済プロダクトのフロントエンドアーキテクチャ・フルスタック開発を担当しています。
 
@@ -89,7 +86,7 @@
 **Web3**: Viem · Wagmi · Ethers.js · Solidity（読解・インテグレーション）
 **状態管理**: Zustand · Jotai · TanStack Query
 **ツールチェーン**: Vite · Turborepo · EAS · ESLint · Prettier
-**その他**: Node.js · Express · Swift (macOS) · Electron · i18n (24+ 言語対応)
+**その他**: Node.js · Express · Electron · i18n (24+ 言語対応)
 
 ### 🏗️ コアプロジェクト（社内・組織内 · プライベートリポジトリ）
 
@@ -122,7 +119,6 @@
 |-------------|------|-------------|
 | **pqpay-pospay-mobile-app** | 加盟店向けPOSアプリ — QR 決済・サーマルプリンタ連携・マルチ環境 | Expo 53 · React Native · i18n (24 言語) |
 | **pqpay-pospay-admin-ui** | 運営管理画面 — 加盟店管理・データダッシュボード・スケジュール | React 19 · Vite · Ant Design |
-| **pqpay-affiliate-ui** | アフィリエイトプラットフォーム | React · TypeScript |
 
 #### その他の社内プロジェクト（個人プライベートリポジトリ）
 
@@ -137,8 +133,6 @@
 
 | プロジェクト | 概要 |
 |-------------|------|
-| [CockroachPet](https://github.com/jo9900/CockroachPet) | 🪳 macOS デスクトップペット — 16 種の AI ステート・ベクタレンダリング・Swift ネイティブ |
-| [CockroachPet-Electron](https://github.com/jo9900/CockroachPet-Public-Electron) | 🪳 クロスプラットフォームデスクトップペット — Electron + Canvas |
 | [typora-palette](https://github.com/jo9900/typora-palette) | 🎨 12 種の Typora テーマ — バンドルフォント付き |
 | [pdf2md](https://github.com/jo9900/pdf2md) | 📄 ドキュメント一括 Markdown 変換 — PDF/DOCX/PPTX/XLSX/EPUB 対応 |
 
@@ -148,7 +142,7 @@
 
 ## Hi, I'm JO 👋
 
-Full-stack engineer based in Tokyo, specializing in **Web3 / Blockchain** and **cross-platform application** development.
+Full-stack engineer based in Kanagawa, Japan, specializing in **Web3 / Blockchain** and **cross-platform application** development.
 
 Currently at [ABEL & Co., Ltd.](https://github.com/qday-io), leading frontend architecture and full-stack development for DeFi infrastructure and crypto payment products.
 
@@ -160,7 +154,7 @@ Currently at [ABEL & Co., Ltd.](https://github.com/qday-io), leading frontend ar
 **Web3**: Viem · Wagmi · Ethers.js · Solidity (reading / integration)
 **State Management**: Zustand · Jotai · TanStack Query
 **Tooling**: Vite · Turborepo · EAS · ESLint · Prettier
-**Other**: Node.js · Express · Swift (macOS) · Electron · i18n (24+ languages)
+**Other**: Node.js · Express · Electron · i18n (24+ languages)
 
 ### 🏗️ Core Projects (Company / Organization · Private Repos)
 
@@ -193,7 +187,6 @@ Currently at [ABEL & Co., Ltd.](https://github.com/qday-io), leading frontend ar
 |---------|-------------|------------|
 | **pqpay-pospay-mobile-app** | Merchant POS app — QR payments, thermal printing, multi-env | Expo 53 · React Native · i18n (24 langs) |
 | **pqpay-pospay-admin-ui** | Operations dashboard — merchant management, analytics, scheduling | React 19 · Vite · Ant Design |
-| **pqpay-affiliate-ui** | Affiliate platform | React · TypeScript |
 
 #### Other Company Projects (Personal Private Repos)
 
@@ -208,7 +201,5 @@ Currently at [ABEL & Co., Ltd.](https://github.com/qday-io), leading frontend ar
 
 | Project | Description |
 |---------|-------------|
-| [CockroachPet](https://github.com/jo9900/CockroachPet) | 🪳 macOS desktop pet — 16 AI states, vector rendering, native Swift |
-| [CockroachPet-Electron](https://github.com/jo9900/CockroachPet-Public-Electron) | 🪳 Cross-platform desktop pet — Electron + Canvas vector rendering |
 | [typora-palette](https://github.com/jo9900/typora-palette) | 🎨 12 distinctive Typora themes with bundled fonts |
 | [pdf2md](https://github.com/jo9900/pdf2md) | 📄 Batch document → Markdown converter — PDF/DOCX/PPTX/XLSX/EPUB |
